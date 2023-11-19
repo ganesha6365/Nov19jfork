@@ -28,5 +28,6 @@ public class MyClass {
 		System.out.println("Multiply is : "+ob.mul(20, 10));
 		System.out.println("Division is : "+ob.divn(20, 10));
 		System.out.println("Double Sum is : "+ob.add2(20,20, 10));
+		System.out.println("Demo successfully compleed for ingeration of Jenkins and Maven : ");
 	}
 }
